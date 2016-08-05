@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CANworker", "CANworker\CANworker.csproj", "{49F49A24-8B4C-4F50-938A-4A4C5DFF2B7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49F49A24-8B4C-4F50-938A-4A4C5DFF2B7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49F49A24-8B4C-4F50-938A-4A4C5DFF2B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49F49A24-8B4C-4F50-938A-4A4C5DFF2B7F}.Debug|x86.ActiveCfg = Debug|x86
+		{49F49A24-8B4C-4F50-938A-4A4C5DFF2B7F}.Debug|x86.Build.0 = Debug|x86
+		{49F49A24-8B4C-4F50-938A-4A4C5DFF2B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49F49A24-8B4C-4F50-938A-4A4C5DFF2B7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49F49A24-8B4C-4F50-938A-4A4C5DFF2B7F}.Release|x86.ActiveCfg = Release|x86
+		{49F49A24-8B4C-4F50-938A-4A4C5DFF2B7F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

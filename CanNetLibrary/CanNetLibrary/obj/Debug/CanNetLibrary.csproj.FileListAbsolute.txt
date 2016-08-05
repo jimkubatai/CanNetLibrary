@@ -1,0 +1,11 @@
+C:\Users\ChernyakovDV\Desktop\jimtestrepo\CanNetLibrary\CanNetLibrary\bin\Debug\CanNetLibrary.dll
+C:\Users\ChernyakovDV\Desktop\jimtestrepo\CanNetLibrary\CanNetLibrary\bin\Debug\CanNetLibrary.pdb
+C:\Users\ChernyakovDV\Desktop\jimtestrepo\CanNetLibrary\CanNetLibrary\bin\Debug\vcinet2.dll
+C:\Users\ChernyakovDV\Desktop\jimtestrepo\CanNetLibrary\CanNetLibrary\bin\Debug\vcinet2.xml
+C:\Users\ChernyakovDV\Desktop\jimtestrepo\CanNetLibrary\CanNetLibrary\obj\Debug\CanNetLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ChernyakovDV\Desktop\jimtestrepo\CanNetLibrary\CanNetLibrary\obj\Debug\CanNetLibrary.dll
+C:\Users\ChernyakovDV\Desktop\jimtestrepo\CanNetLibrary\CanNetLibrary\obj\Debug\CanNetLibrary.pdb
+C:\Users\ChernyakovDV\Desktop\jimtestrepo\CAN Интерфейс\Проекты\CanNetLibrary\CanNetLibrary\bin\Debug\CanNetLibrary.dll
+C:\Users\ChernyakovDV\Desktop\jimtestrepo\CAN Интерфейс\Проекты\CanNetLibrary\CanNetLibrary\bin\Debug\CanNetLibrary.pdb
+C:\Users\ChernyakovDV\Desktop\jimtestrepo\CAN Интерфейс\Проекты\CanNetLibrary\CanNetLibrary\obj\Debug\CanNetLibrary.dll
+C:\Users\ChernyakovDV\Desktop\jimtestrepo\CAN Интерфейс\Проекты\CanNetLibrary\CanNetLibrary\obj\Debug\CanNetLibrary.pdb
